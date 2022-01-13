@@ -86,9 +86,15 @@ Facilitate meetings, write business collateral, and create presentations for
 clients, including Microsoft, Capital One, and REI. 
 ```
 ### Education
+
 **Copyhackers, Online**  — Conversion Copywriting (2020)
+
 **A Cloud Guru** — AWS Cloud Computing and Intro to AWS (2019)
+
 **Udemy** — GitHub for Writers/API Technical Writing with JSON (2019)
+
 **The University of Washington, Foster School of Business, Seattle, WA** — Digital Marketing and Marketing Management Certificates (2016)
+
 **Bellevue College, Bellevue, WA** — Technical Writing Certificate (2015)
+
 **The University of Washington, Seattle, WA**— B.A., Interdisciplinary Communications and Journalism (2005)
