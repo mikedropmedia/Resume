@@ -5,7 +5,7 @@
 ### Overview
 
 		Focus on the audience, and the content follows. 
-		 I write to create action using creative, concise, and data-driven content.	
+		I write to create action using creative, concise, and data-driven content.	
 
 ### Clients
 * Microsoft
